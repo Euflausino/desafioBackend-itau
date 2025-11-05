@@ -1,5 +1,5 @@
 <h1 align="center">
-  TODO List
+  Transaction application
 </h1>
 
 API para gerenciar transações que faz parte [desse desafio](https://github.com/feltex/desafio-itau-backend) para pessoas desenvolvedoras backend júnior.
