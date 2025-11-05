@@ -11,7 +11,7 @@ public record TransacaoRequestDTO(
 		
 		@NotNull
 		@Min(0)
-		BigDecimal valor,
+		Double valor,
 		
 		@NotNull
 		@PastOrPresent
